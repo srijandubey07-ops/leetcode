@@ -41,6 +41,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/srijandubey07-ops/leetcode/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/srijandubey07-ops/leetcode/tree/master/0048-rotate-image) |
 ## Prefix Sum
 |  |
