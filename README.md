@@ -53,4 +53,20 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/srijandubey07-ops/leetcode/tree/master/0560-subarray-sum-equals-k) |
+## String
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/srijandubey07-ops/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/srijandubey07-ops/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Greedy
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/srijandubey07-ops/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/srijandubey07-ops/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
