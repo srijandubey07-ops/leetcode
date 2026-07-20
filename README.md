@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/srijandubey07-ops/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/srijandubey07-ops/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/srijandubey07-ops/leetcode/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/srijandubey07-ops/leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/srijandubey07-ops/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/srijandubey07-ops/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/srijandubey07-ops/leetcode/tree/master/0189-rotate-array) |
@@ -50,6 +51,7 @@
 | [0009-palindrome-number](https://github.com/srijandubey07-ops/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/srijandubey07-ops/leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/srijandubey07-ops/leetcode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/srijandubey07-ops/leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/srijandubey07-ops/leetcode/tree/master/0189-rotate-array) |
 ## Prefix Sum
 |  |
