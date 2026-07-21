@@ -62,6 +62,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/srijandubey07-ops/leetcode/tree/master/0013-roman-to-integer) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/srijandubey07-ops/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/srijandubey07-ops/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Stack
 |  |
 | ------- |
@@ -74,4 +75,8 @@
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/srijandubey07-ops/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Enumeration
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/srijandubey07-ops/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
