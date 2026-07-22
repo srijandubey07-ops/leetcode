@@ -37,6 +37,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/srijandubey07-ops/leetcode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/srijandubey07-ops/leetcode/tree/master/0067-add-binary) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/srijandubey07-ops/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Matrix
 |  |
@@ -52,6 +53,7 @@
 | [0013-roman-to-integer](https://github.com/srijandubey07-ops/leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/srijandubey07-ops/leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/srijandubey07-ops/leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/srijandubey07-ops/leetcode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/srijandubey07-ops/leetcode/tree/master/0189-rotate-array) |
 ## Prefix Sum
 |  |
@@ -61,6 +63,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/srijandubey07-ops/leetcode/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/srijandubey07-ops/leetcode/tree/master/0067-add-binary) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/srijandubey07-ops/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/srijandubey07-ops/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Stack
@@ -79,4 +82,8 @@
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/srijandubey07-ops/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/srijandubey07-ops/leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
