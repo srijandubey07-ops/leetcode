@@ -13,6 +13,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/srijandubey07-ops/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/srijandubey07-ops/leetcode/tree/master/0189-rotate-array) |
 | [0560-subarray-sum-equals-k](https://github.com/srijandubey07-ops/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/srijandubey07-ops/leetcode/tree/master/0704-binary-search) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/srijandubey07-ops/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/srijandubey07-ops/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -86,4 +87,8 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/srijandubey07-ops/leetcode/tree/master/0067-add-binary) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/srijandubey07-ops/leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
