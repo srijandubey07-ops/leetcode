@@ -53,6 +53,7 @@
 | [0009-palindrome-number](https://github.com/srijandubey07-ops/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/srijandubey07-ops/leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/srijandubey07-ops/leetcode/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/srijandubey07-ops/leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/srijandubey07-ops/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/srijandubey07-ops/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/srijandubey07-ops/leetcode/tree/master/0069-sqrtx) |
@@ -93,4 +94,12 @@
 | ------- |
 | [0069-sqrtx](https://github.com/srijandubey07-ops/leetcode/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/srijandubey07-ops/leetcode/tree/master/0704-binary-search) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/srijandubey07-ops/leetcode/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/srijandubey07-ops/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
