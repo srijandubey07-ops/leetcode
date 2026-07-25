@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/srijandubey07-ops/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/srijandubey07-ops/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/srijandubey07-ops/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/srijandubey07-ops/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/srijandubey07-ops/leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/srijandubey07-ops/leetcode/tree/master/0066-plus-one) |
@@ -93,6 +94,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/srijandubey07-ops/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/srijandubey07-ops/leetcode/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/srijandubey07-ops/leetcode/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/srijandubey07-ops/leetcode/tree/master/0704-binary-search) |
