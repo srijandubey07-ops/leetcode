@@ -62,6 +62,7 @@
 | [0066-plus-one](https://github.com/srijandubey07-ops/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/srijandubey07-ops/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/srijandubey07-ops/leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/srijandubey07-ops/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/srijandubey07-ops/leetcode/tree/master/0189-rotate-array) |
 ## Prefix Sum
 |  |
@@ -108,6 +109,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/srijandubey07-ops/leetcode/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/srijandubey07-ops/leetcode/tree/master/0070-climbing-stairs) |
 ## Combinatorics
 |  |
 | ------- |
@@ -116,4 +118,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/srijandubey07-ops/leetcode/tree/master/0014-longest-common-prefix) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/srijandubey07-ops/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
