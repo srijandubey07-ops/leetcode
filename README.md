@@ -67,6 +67,7 @@
 | [0070-climbing-stairs](https://github.com/srijandubey07-ops/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/srijandubey07-ops/leetcode/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/srijandubey07-ops/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/srijandubey07-ops/leetcode/tree/master/0342-power-of-four) |
 | [0492-construct-the-rectangle](https://github.com/srijandubey07-ops/leetcode/tree/master/0492-construct-the-rectangle) |
 ## Prefix Sum
 |  |
@@ -102,6 +103,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/srijandubey07-ops/leetcode/tree/master/0067-add-binary) |
+| [0342-power-of-four](https://github.com/srijandubey07-ops/leetcode/tree/master/0342-power-of-four) |
 ## Binary Search
 |  |
 | ------- |
@@ -131,4 +133,5 @@
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/srijandubey07-ops/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/srijandubey07-ops/leetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
