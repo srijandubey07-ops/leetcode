@@ -17,6 +17,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/srijandubey07-ops/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/srijandubey07-ops/leetcode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/srijandubey07-ops/leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/srijandubey07-ops/leetcode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/srijandubey07-ops/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/srijandubey07-ops/leetcode/tree/master/0704-binary-search) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/srijandubey07-ops/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -28,6 +29,7 @@
 | [0013-roman-to-integer](https://github.com/srijandubey07-ops/leetcode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/srijandubey07-ops/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/srijandubey07-ops/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0268-missing-number](https://github.com/srijandubey07-ops/leetcode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/srijandubey07-ops/leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Union-Find
 |  |
@@ -66,6 +68,7 @@
 | [0069-sqrtx](https://github.com/srijandubey07-ops/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/srijandubey07-ops/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/srijandubey07-ops/leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/srijandubey07-ops/leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/srijandubey07-ops/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/srijandubey07-ops/leetcode/tree/master/0342-power-of-four) |
 | [0492-construct-the-rectangle](https://github.com/srijandubey07-ops/leetcode/tree/master/0492-construct-the-rectangle) |
@@ -103,6 +106,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/srijandubey07-ops/leetcode/tree/master/0067-add-binary) |
+| [0268-missing-number](https://github.com/srijandubey07-ops/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/srijandubey07-ops/leetcode/tree/master/0342-power-of-four) |
 ## Binary Search
 |  |
@@ -111,6 +115,7 @@
 | [0069-sqrtx](https://github.com/srijandubey07-ops/leetcode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/srijandubey07-ops/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/srijandubey07-ops/leetcode/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/srijandubey07-ops/leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/srijandubey07-ops/leetcode/tree/master/0704-binary-search) |
 ## Dynamic Programming
 |  |
@@ -134,4 +139,8 @@
 | ------- |
 | [0326-power-of-three](https://github.com/srijandubey07-ops/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/srijandubey07-ops/leetcode/tree/master/0342-power-of-four) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/srijandubey07-ops/leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
