@@ -29,6 +29,7 @@
 | [0013-roman-to-integer](https://github.com/srijandubey07-ops/leetcode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/srijandubey07-ops/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/srijandubey07-ops/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0205-isomorphic-strings](https://github.com/srijandubey07-ops/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/srijandubey07-ops/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/srijandubey07-ops/leetcode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/srijandubey07-ops/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -84,6 +85,7 @@
 | [0014-longest-common-prefix](https://github.com/srijandubey07-ops/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/srijandubey07-ops/leetcode/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/srijandubey07-ops/leetcode/tree/master/0067-add-binary) |
+| [0205-isomorphic-strings](https://github.com/srijandubey07-ops/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/srijandubey07-ops/leetcode/tree/master/0242-valid-anagram) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/srijandubey07-ops/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/srijandubey07-ops/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
