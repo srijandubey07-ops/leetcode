@@ -1,19 +1,19 @@
 class Solution {
     public int compress(char[] chars) {
-        String ans = "";
+        StringBuilder  ans = new StringBuilder("");
         int i =0 , j=0;
         while(j<chars.length){
             if(chars[i]==chars[j]) j++;
             else{
-                ans += chars[i];
+                ans.append(chars[i]);
                 int len = j-i;
-                if(len>1) ans+=len;
+                if(len>1) ans.append(len);
                 i=j;
             }
         }
-        ans +=chars[i];
+        ans.append(chars[i]);
         int len = j-i;
-        if(len>1) ans+=len;
+        if(len>1) ans.append(len);
         for(i=0; i<ans.length(); i++){
             chars[i] = ans.charAt(i);
         }
