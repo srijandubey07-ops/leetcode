@@ -43,6 +43,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/srijandubey07-ops/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/srijandubey07-ops/leetcode/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/srijandubey07-ops/leetcode/tree/master/0189-rotate-array) |
+| [0443-string-compression](https://github.com/srijandubey07-ops/leetcode/tree/master/0443-string-compression) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/srijandubey07-ops/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -87,6 +88,7 @@
 | [0067-add-binary](https://github.com/srijandubey07-ops/leetcode/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/srijandubey07-ops/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/srijandubey07-ops/leetcode/tree/master/0242-valid-anagram) |
+| [0443-string-compression](https://github.com/srijandubey07-ops/leetcode/tree/master/0443-string-compression) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/srijandubey07-ops/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/srijandubey07-ops/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Stack
