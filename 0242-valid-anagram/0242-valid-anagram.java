@@ -1,3 +1,4 @@
+
 class Solution {
     public boolean isAnagram(String s, String t) {
         // if length are not equal return false
