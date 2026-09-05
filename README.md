@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/srijandubey07-ops/leetcode/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/srijandubey07-ops/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/srijandubey07-ops/leetcode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/srijandubey07-ops/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/srijandubey07-ops/leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -63,6 +64,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/srijandubey07-ops/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/srijandubey07-ops/leetcode/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/srijandubey07-ops/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/srijandubey07-ops/leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/srijandubey07-ops/leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/srijandubey07-ops/leetcode/tree/master/0062-unique-paths) |
@@ -82,6 +84,7 @@
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/srijandubey07-ops/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/srijandubey07-ops/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/srijandubey07-ops/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/srijandubey07-ops/leetcode/tree/master/0020-valid-parentheses) |
