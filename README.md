@@ -18,6 +18,7 @@
 | [0162-find-peak-element](https://github.com/srijandubey07-ops/leetcode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/srijandubey07-ops/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/srijandubey07-ops/leetcode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/srijandubey07-ops/leetcode/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/srijandubey07-ops/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/srijandubey07-ops/leetcode/tree/master/0704-binary-search) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/srijandubey07-ops/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -44,6 +45,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/srijandubey07-ops/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/srijandubey07-ops/leetcode/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/srijandubey07-ops/leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/srijandubey07-ops/leetcode/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/srijandubey07-ops/leetcode/tree/master/0443-string-compression) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/srijandubey07-ops/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
