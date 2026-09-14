@@ -16,6 +16,7 @@
 | [0074-search-a-2d-matrix](https://github.com/srijandubey07-ops/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/srijandubey07-ops/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/srijandubey07-ops/leetcode/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/srijandubey07-ops/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/srijandubey07-ops/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/srijandubey07-ops/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/srijandubey07-ops/leetcode/tree/master/0283-move-zeroes) |
@@ -31,6 +32,7 @@
 | [0013-roman-to-integer](https://github.com/srijandubey07-ops/leetcode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/srijandubey07-ops/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/srijandubey07-ops/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/srijandubey07-ops/leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/srijandubey07-ops/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/srijandubey07-ops/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/srijandubey07-ops/leetcode/tree/master/0268-missing-number) |
@@ -153,6 +155,19 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/srijandubey07-ops/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/srijandubey07-ops/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/srijandubey07-ops/leetcode/tree/master/0268-missing-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/srijandubey07-ops/leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/srijandubey07-ops/leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/srijandubey07-ops/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
