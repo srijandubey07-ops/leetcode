@@ -178,4 +178,8 @@
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/srijandubey07-ops/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/srijandubey07-ops/leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
