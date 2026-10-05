@@ -22,6 +22,7 @@
 | [0268-missing-number](https://github.com/srijandubey07-ops/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/srijandubey07-ops/leetcode/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/srijandubey07-ops/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0658-find-k-closest-elements](https://github.com/srijandubey07-ops/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/srijandubey07-ops/leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/srijandubey07-ops/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/srijandubey07-ops/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -51,6 +52,7 @@
 | [0189-rotate-array](https://github.com/srijandubey07-ops/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/srijandubey07-ops/leetcode/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/srijandubey07-ops/leetcode/tree/master/0443-string-compression) |
+| [0658-find-k-closest-elements](https://github.com/srijandubey07-ops/leetcode/tree/master/0658-find-k-closest-elements) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/srijandubey07-ops/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -132,6 +134,7 @@
 | [0074-search-a-2d-matrix](https://github.com/srijandubey07-ops/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/srijandubey07-ops/leetcode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/srijandubey07-ops/leetcode/tree/master/0268-missing-number) |
+| [0658-find-k-closest-elements](https://github.com/srijandubey07-ops/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/srijandubey07-ops/leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/srijandubey07-ops/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Dynamic Programming
@@ -162,6 +165,7 @@
 | [0169-majority-element](https://github.com/srijandubey07-ops/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/srijandubey07-ops/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/srijandubey07-ops/leetcode/tree/master/0268-missing-number) |
+| [0658-find-k-closest-elements](https://github.com/srijandubey07-ops/leetcode/tree/master/0658-find-k-closest-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -182,4 +186,12 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/srijandubey07-ops/leetcode/tree/master/0069-sqrtx) |
+## Sliding Window
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/srijandubey07-ops/leetcode/tree/master/0658-find-k-closest-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/srijandubey07-ops/leetcode/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
