@@ -28,6 +28,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/srijandubey07-ops/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/srijandubey07-ops/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/srijandubey07-ops/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/srijandubey07-ops/leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/srijandubey07-ops/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -113,6 +114,7 @@
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/srijandubey07-ops/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/srijandubey07-ops/leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -141,6 +143,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/srijandubey07-ops/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/srijandubey07-ops/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/srijandubey07-ops/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/srijandubey07-ops/leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Dynamic Programming
 |  |
 | ------- |
