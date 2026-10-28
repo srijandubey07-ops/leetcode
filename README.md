@@ -15,6 +15,7 @@
 | [0066-plus-one](https://github.com/srijandubey07-ops/leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/srijandubey07-ops/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/srijandubey07-ops/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/srijandubey07-ops/leetcode/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/srijandubey07-ops/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/srijandubey07-ops/leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/srijandubey07-ops/leetcode/tree/master/0169-majority-element) |
@@ -128,6 +129,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/srijandubey07-ops/leetcode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/srijandubey07-ops/leetcode/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/srijandubey07-ops/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/srijandubey07-ops/leetcode/tree/master/0342-power-of-four) |
 ## Binary Search
@@ -203,4 +205,8 @@
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/srijandubey07-ops/leetcode/tree/master/0658-find-k-closest-elements) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/srijandubey07-ops/leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
